@@ -1,7 +1,7 @@
 ![MasterHead](https://www.topcoder.com/wp-content/media/2018/04/DataScience.gif)
 <h1 align="center">Hi 👋, I'm Abhay Tiwari</h1>
 <h3 align="center">A Passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" scr="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
+<img align="right" alt="coding" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaytiwaari&label=Profile%20views&color=0e75b6&style=flat" alt="abhaytiwaari" /> </p>
 
